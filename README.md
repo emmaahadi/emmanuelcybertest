@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmanue ahadi! Passionate Cybersecurity Analyst</h1>
+<h1>Hi, I'm Emmanuel ahadi! Passionate Cybersecurity Analyst</h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
